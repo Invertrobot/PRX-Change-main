@@ -1,0 +1,12 @@
+Datasets of Change Detection
+|————train
+|      |——A (pre-change images)
+|      |———B (post-change images)
+|      |———label (ground truth)
+|
+|————val
+|      |————...
+|
+|————test
+|      |————...
+|
