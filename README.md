@@ -33,7 +33,7 @@ conda activate {env_name}
 Clone this repository:
 
 ```bash
-git clone https://github.com/Touriate/PRX-Change-main.git
+git clone https://github.com/Invertrobot/PRX-Change-main.git
 cd PRX-Change-main
 ```
 
