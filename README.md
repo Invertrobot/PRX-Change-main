@@ -2,13 +2,13 @@
 
 ## :speech_balloon: Network Architecture
 
-![image-overallstructure](Images/Overall_structure.png)
+![image-overallstructure](images/Overall_structure.png)
 
  ## :speech_balloon: Qualitative Results on LEVIR-CD, DSIFN-CD and S2Looking
 
 [//]: # (![image-QuantitativeResult]&#40;Images/image-20221117160727181.png&#41;)
 
-![image-QualitativeResult](Images/Qualitative_results.png)
+![image-QualitativeResult](images/Qualitative_results.png)
 
 ## :speech_balloon: Requirements
 
@@ -33,7 +33,7 @@ conda activate {env_name}
 Clone this repository:
 
 ```bash
-git clone https://github.com/RSChangeDetection/X-Cross.git
+git clone [https://github.com/RSChangeDetection/X-Cross.git](https://github.com/Touriate/PRX-Change-main.git)
 cd PRX-Change-main
 ```
 
